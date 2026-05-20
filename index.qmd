@@ -1,25 +1,14 @@
 ---
-title: "Welcome to my Nightmare"
+title: "Martin Luquet tentative website"
 format: html
 ---
 
-## Quarto
+## Welcome!
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+- This is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop. Thank you Cecilia!
 
-## Running Code
+- For now it's shitty. First, I'd like to change the URL but I don't know how. It's already published though haha.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+- I aim at using this as a place of expression. Not just as a resume or something. I don't want to oversell myself or anything of that kind. I'm not really into the career stuff anyway, but I'd like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits.
 
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this 
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+- There may be a blog too!
