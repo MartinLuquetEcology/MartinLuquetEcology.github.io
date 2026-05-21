@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Martin Luquet tentative website",
     "section": "",
-    "text": "I am a postdoc researcher working at the interface between behavioural and population ecology, mainly using quantitative methods. Currently, I work at the Laboratory for Alpine Ecology, where I study some behavioural aspects of predator-prey interactions.\nThis is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop https://cecibaldoni.github.io/. Thank you Cecilia! It’s quite messy for now though haha.\nI aim at using this as a place of expression. Not just as a resume or something. I don’t want to oversell myself or anything of that kind. I’m not really into the career stuff anyway, but I’d like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits. There may be a blog too!"
+    "text": "I am a postdoc researcher in ecology. Currently, I work at the Laboratory for Alpine Ecology, where I study some behavioural aspects of predator-prey interactions.\nThis is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop https://cecibaldoni.github.io/. Thank you Cecilia! It’s quite messy for now though haha.\nI aim at using this as a place of expression. Not just as a resume or something. I don’t want to oversell myself or anything of that kind. I’m not really into the career stuff anyway, but I’d like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits. There may be a blog too!"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Martin Luquet tentative website",
     "section": "",
-    "text": "I am a postdoc researcher working at the interface between behavioural and population ecology, mainly using quantitative methods. Currently, I work at the Laboratory for Alpine Ecology, where I study some behavioural aspects of predator-prey interactions.\nThis is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop https://cecibaldoni.github.io/. Thank you Cecilia! It’s quite messy for now though haha.\nI aim at using this as a place of expression. Not just as a resume or something. I don’t want to oversell myself or anything of that kind. I’m not really into the career stuff anyway, but I’d like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits. There may be a blog too!"
+    "text": "I am a postdoc researcher in ecology. Currently, I work at the Laboratory for Alpine Ecology, where I study some behavioural aspects of predator-prey interactions.\nThis is my attempt to create my website using Quarto. I created this thanks to Cecilia Baldoni in a SORTEE workshop https://cecibaldoni.github.io/. Thank you Cecilia! It’s quite messy for now though haha.\nI aim at using this as a place of expression. Not just as a resume or something. I don’t want to oversell myself or anything of that kind. I’m not really into the career stuff anyway, but I’d like to use this to express my doubts about the whole scientific research entreprise, my insecurities, also provide a list of my publications but pinpoint their limits. There may be a blog too!"
   },
   {
     "objectID": "content/projects.html",
@@ -32,28 +32,35 @@
     "href": "content/about.html",
     "title": "Martin Luquet",
     "section": "",
-    "text": "Blablabla 2"
+    "text": "I am a postdoc researcher working at the interface between behavioural and population ecology, mainly using quantitative methods. Currently, I work at the Laboratory for Alpine Ecology, where I study the spatial and temporal responses of chamois (a beautiful mountain ungulate) to wolves.\nI do many other stuff though. I also worked a lot (and still do a little bit) on insects in agroecosystems. Taught some stats (not was I very good at it) and ecology. I’m very interested in Open Science and try to invest myself a little bit in it - not as much as I’d like to.\nI’ve also always wondered a lot about the status of the discipline and what it enables us to learn and do (in fact, that’s where my interest in open science comes from). I’ve read a lot on the subject and racked my brains over it quite a bit. Not that meta-science and the philosophy of science are really ‘hobbies’—I just can’t help myself, haha. As a result, my thoughts on the subject are rather jumbled and not really organised methodically—nevertheless, perhaps I’ll share them here."
+  },
+  {
+    "objectID": "content/about.html#about-me",
+    "href": "content/about.html#about-me",
+    "title": "Martin Luquet",
+    "section": "",
+    "text": "I am a postdoc researcher working at the interface between behavioural and population ecology, mainly using quantitative methods. Currently, I work at the Laboratory for Alpine Ecology, where I study the spatial and temporal responses of chamois (a beautiful mountain ungulate) to wolves.\nI do many other stuff though. I also worked a lot (and still do a little bit) on insects in agroecosystems. Taught some stats (not was I very good at it) and ecology. I’m very interested in Open Science and try to invest myself a little bit in it - not as much as I’d like to.\nI’ve also always wondered a lot about the status of the discipline and what it enables us to learn and do (in fact, that’s where my interest in open science comes from). I’ve read a lot on the subject and racked my brains over it quite a bit. Not that meta-science and the philosophy of science are really ‘hobbies’—I just can’t help myself, haha. As a result, my thoughts on the subject are rather jumbled and not really organised methodically—nevertheless, perhaps I’ll share them here."
   },
   {
     "objectID": "content/about.html#about-this-website",
     "href": "content/about.html#about-this-website",
     "title": "Martin Luquet",
-    "section": "",
-    "text": "Blablabla 2"
+    "section": "About this website",
+    "text": "About this website"
   },
   {
     "objectID": "content/blog.html",
     "href": "content/blog.html",
     "title": "Martin Luquet",
     "section": "",
-    "text": "Yep maybe I’ll do a blog! I’ll also talk about art & culture, and other stuff, whatever I want to, and honestly it’s OK if you’re not interested there’s already so many people telling their lives on the Internet ’"
+    "text": "21/05/2026. Just saw this citation by Scott Peacor today on Dynamic Ecology blog today.\n\n\nI want my work to have a positive influence, not just have fun. This is not fun for me. I don’t really like statistics and I don’t like criticizing people. I don’t get a kick out of it. And so designing a statistic project to show that we ecologists are doing something wrong is not my idea of fun.\n\n\n\nFound it striking (and inspirational)? Reminds me the famous citation from Richard McElreath: ‘Science is a job, not a hobby’ (famous at least for me, haha)."
   },
   {
     "objectID": "content/blog.html#blog",
     "href": "content/blog.html#blog",
     "title": "Martin Luquet",
     "section": "",
-    "text": "Yep maybe I’ll do a blog! I’ll also talk about art & culture, and other stuff, whatever I want to, and honestly it’s OK if you’re not interested there’s already so many people telling their lives on the Internet ’"
+    "text": "21/05/2026. Just saw this citation by Scott Peacor today on Dynamic Ecology blog today.\n\n\nI want my work to have a positive influence, not just have fun. This is not fun for me. I don’t really like statistics and I don’t like criticizing people. I don’t get a kick out of it. And so designing a statistic project to show that we ecologists are doing something wrong is not my idea of fun.\n\n\n\nFound it striking (and inspirational)? Reminds me the famous citation from Richard McElreath: ‘Science is a job, not a hobby’ (famous at least for me, haha)."
   },
   {
     "objectID": "content/resources.html",
