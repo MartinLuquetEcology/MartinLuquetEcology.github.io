@@ -21,19 +21,20 @@ Ok here I'd like to do something [a bit like Cecilia](https://cecibaldoni.github
 
 ```{=html}
 
+<figure>
 <a href="projects/insects.html">
   <img src="/img/artzai_aphidius.jpg"
-       alt="Aphidius ervi feeding on Vicia faba extrafloral nectary.">
+       alt="Aphidius ervi feeding on Vicia faba extrafloral nectary."
+       style="max-width: 500px; width: 100%;">
 </a>
 
-<p class="figcaption">
-  <em>
+<figcaption style="color: gray; font-style: normal;">
     This is <a href="https://en.wikipedia.org/wiki/Aphidius_ervi"> <i>Aphidius ervi</i></a>, a parasitoid of aphids, on the nectary of a faba bean. This beautiful picture was taken by 
     <a href="https://www.instagram.com/artzaiphoto/">
       Artzai Jauregui
     </a>. Yes, I am lucky enough to work with many talented photographers.
-  </em>
-</p>
+  </figcaption>
+</figure>
 
 ```
 
