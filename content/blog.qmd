@@ -4,10 +4,19 @@ title: ""
 
 ## Blog
 
-- **21/05/2026.** Just saw this citation by Scott Peacor today on [Dynamic Ecology blog](https://dynamicecology.wordpress.com/2026/05/18/designing-a-statistic-project-to-show-that-we-ecologists-are-doing-something-wrong-is-not-my-idea-of-fun-interview-with-scott-peacor-on-meta-analysis-in-ecology/) today.
+- **2026/05/26.** Another thought-provoking quote today by Adam Mastroianni on [Experimental History](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat).
+
+  ::: {}
+  > You can’t turn a cheat into a scientist by making a rule against
+  > cheating. The most important “rigor-enhancing practice” is caring about getting things right, and without that, nothing else matters.
+  :::
+
+  What are your thoughts on this? Part of me agrees. Sure, things seem more right if people *do* adhere to the open/reliable science principles rather than if they are forced to. But how do we *make them adhere* to these principles? *Should we*? Maybe the question is rather: how de we counter other incentives that would make them adopt *bad practices*?
+
+- **2026/05/21.** Just saw this citation by Scott Peacor today on [Dynamic Ecology blog](https://dynamicecology.wordpress.com/2026/05/18/designing-a-statistic-project-to-show-that-we-ecologists-are-doing-something-wrong-is-not-my-idea-of-fun-interview-with-scott-peacor-on-meta-analysis-in-ecology/) today.
 
   ::: {}
   > I want my work to have a positive influence, not just have fun. This is not fun for me. I don’t really like statistics and I don’t like criticizing people. I don’t get a kick out of it. And so designing a statistic project to show that we ecologists are doing something wrong is not my idea of fun.
   :::
 
-Found it striking (and inspirational)? Reminds me the [famous citation from Richard McElreath](https://elevanth.org/blog/2025/07/09/which-kind-of-science-reform/): 'Research is a job, not a hobby' (famous at least for me, haha).
+  Found it striking (and inspirational)? Reminds me the [famous citation from Richard McElreath](https://elevanth.org/blog/2025/07/09/which-kind-of-science-reform/): 'Research is a job, not a hobby' (famous at least for me, haha). WHat do you think?
