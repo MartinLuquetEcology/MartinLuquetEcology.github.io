@@ -4,11 +4,14 @@ title: ""
 
 ## Blog
 
+- 2026/05/28. Read this [very cool paper](https://doi.org/10.1098/rspb.2023.0661 "Shiratsuru et al. 2023") by Shiratsuru *et al.* 2023. the other day. There is a common assumption in the behavioural ecology of predator-prey relationships that prey would become *less active* (for what it may mean) at moments of the day when predators are *more active* - because predation pressure would be higher then. In this study, authors actually attempted to evaluate this - they measured predation rates all along the day and related it to predator *and* prey activity patterns (using a classic lynx-snowshoe hare system). What they found is that kills are mainly related to predator activity, while they were completely unrelated to the prey - see the cool figure below. The result is somewhat similar to [a previous one](doi:10.1111/1365-2435.12642 "Vander Vennen et al. 2016") obtained on a wolf-moose system. Cool to see some papers that actually do test common assumption that is often invoked but actually rarely tested - although often they are at the core of causal rationales. Anyway, I'll keep this in mind for my future investigations 🙂
+
+  - [![Diel activity of lynxes (blue dashed line), snowshoe hares (green dashed), and predation events (red solid). Fig. 1c from Shiratsuru et al. 2023.](/img/shiratsuru_activity.png)](https://doi.org/10.1098/rspb.2023.0661)
+
 - **2026/05/26.** Another thought-provoking quote today by Adam Mastroianni on [Experimental History](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat).
 
   ::: {}
-  > You can’t turn a cheat into a scientist by making a rule against
-  > cheating. The most important “rigor-enhancing practice” is caring about getting things right, and without that, nothing else matters.
+  > You can’t turn a cheat into a scientist by making a rule against cheating. The most important “rigor-enhancing practice” is caring about getting things right, and without that, nothing else matters.
   :::
 
   What are your thoughts on this? Part of me agrees. Sure, things seem more right if people *do* adhere to the open/reliable science principles rather than if they are forced to. But how do we *make them adhere* to these principles? *Should we*? Maybe the question is rather: how de we counter other incentives that would make them adopt *bad practices*?
